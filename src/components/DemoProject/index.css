@@ -1,0 +1,26 @@
+.pic {
+  height: 300px;
+  width: 600px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  color: maroon;
+}
+
+h1 {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 500;
+  color: blueviolet;
+}
